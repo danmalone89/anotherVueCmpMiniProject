@@ -1,5 +1,11 @@
 <template>
-  <app-message></app-message>
+  <div>
+    <p>
+      This mini-project shows how communication occurs between a child (input)
+      and parent (message) component.
+    </p>
+    <app-message></app-message>
+  </div>
 </template>
 
 <script>
