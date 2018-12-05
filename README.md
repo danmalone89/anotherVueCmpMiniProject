@@ -1,0 +1,2 @@
+# anotherVueCmpMiniProject
+Created with CodeSandbox
